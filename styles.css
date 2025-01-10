@@ -1,7 +1,13 @@
 body 
     {
     background-color: powderblue;
-}
+        background-image: url(papi.jpg);
+        background-size: auto;
+        background-position: center;
+        height: 100vh;
+    
+    }
+
 h1 { 
     color: rgb(34, 6, 245);
     font-size: 300%;
